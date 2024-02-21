@@ -7,4 +7,4 @@ cd H_Tech9
 
 ls
 
-python Hassan.py
+python Hassan_Tech.py
